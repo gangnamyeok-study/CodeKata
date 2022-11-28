@@ -1,7 +1,5 @@
 # CodeKata
 
----
-
 ### 👥 멤버 (3명)
 
 - [용정현](https://github.com/yongbro)
