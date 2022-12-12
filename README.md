@@ -12,3 +12,4 @@
 |-----|-------|-----------------------------------------------------------------------------------|
 | 1주차 | Lv. 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)    |
 | 2주차 | Lv. 2 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)    |
+| 3주차 | Lv. 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)    |
