@@ -18,3 +18,5 @@
 | | Lv. 2 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)    |
 | 4-2 | Lv. 2 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)    |
 | | Lv. 2 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)    |
+| 5 | Lv. 2 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)    |
+| | Lv. 2 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    |
