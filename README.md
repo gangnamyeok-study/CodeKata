@@ -12,11 +12,12 @@
 | 주차  | 난이도   | 문제                                                                                |
 |-----|-------|-----------------------------------------------------------------------------------|
 | 1 | Lv. 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)    |
-| 2 | Lv. 2 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)    |
-| 3 | Lv. 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)    |
-| 4-1 | Lv. 2 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)    |
-| | Lv. 2 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)    |
-| 4-2 | Lv. 2 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)    |
-| | Lv. 2 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)    |
-| 5 | Lv. 2 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)    |
-| | Lv. 2 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    |
+| 2 | | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)    |
+| 3 | | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)    |
+| 4-1 | | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)    |
+| | | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)    |
+| 4-2 | | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)    |
+| | | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)    |
+| 5 | | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)    |
+| | | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    |
+| 6 | | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)    |
