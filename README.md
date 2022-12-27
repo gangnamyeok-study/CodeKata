@@ -5,7 +5,7 @@
 - [용정현](https://github.com/yongbro)
 - [이선주](https://github.com/sunjoolee)
 - [김유경](https://github.com/ugaemi)
-- [채지운](https://github.com/whoisjujube)
+- [채지우](https://github.com/whoisjujube)
 
 ### 🤨 문제 리스트
 
