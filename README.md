@@ -21,3 +21,7 @@
 | 5 | | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)    |
 | | | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)    |
 | 6 | | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)    |
+| | | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)    |
+| 7 | | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    |
+| | | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)    |
+
