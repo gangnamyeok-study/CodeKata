@@ -24,4 +24,6 @@
 | | | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)    |
 | 7 | | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    |
 | | | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)    |
+| 8 | | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |
+| | | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 
