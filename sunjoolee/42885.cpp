@@ -24,7 +24,7 @@ int solution(vector<int> people, int limit) {
         answer++;
         
         //보트 무게 제한이 허락하는 데까지 가장 가벼운 사람 태우기
-        while((!pp.empty()) && (boat + pp.front() <= limit)){
+        if((!pp.empty()) && (boat + pp.front() <= limit)){
             boat += pp.front();
             pp.pop_front();
         }
