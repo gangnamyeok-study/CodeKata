@@ -28,4 +28,6 @@
 | | | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 | 9 | | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238#)  |
 | | | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)  |
+| 10 | | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
+| | | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
 
