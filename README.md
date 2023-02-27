@@ -31,6 +31,8 @@
 | 10 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |
 | | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
 | 11 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
+| 12 |  |
+| 13 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) |
 
 ### 🎯모의 SW 역량테스트 문제 리스트
 
