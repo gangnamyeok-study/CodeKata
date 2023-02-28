@@ -58,5 +58,6 @@ int solution(vector<string> board) {
     //o이 지고 x가 이긴 경우
     if(!o_win && x_win) return o_cnt == x_cnt;
     
+    //o와 x 둘다 이기지 않고, o의 개수와 x의 개수도 적절한 경우
     return 1;
 }
