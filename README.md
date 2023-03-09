@@ -33,7 +33,8 @@
 | 11 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
 | 12 |  |
 | 13 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) |
-| | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+| | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)  |
+| 14 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |
 
 
 ### 🎯모의 SW 역량테스트 문제 리스트
