@@ -36,7 +36,7 @@
 | | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)  |
 | 14 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |
 | | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |
-
+| | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)  |
 
 ### 🎯모의 SW 역량테스트 문제 리스트
 
