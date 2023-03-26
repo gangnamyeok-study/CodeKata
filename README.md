@@ -44,4 +44,5 @@
 | 주차  | 문제                                                                                |
 |-----|-----------------------------------------------------------------------------------|
 | 12 | [보물상자 비밀번호](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)    |
+| 16 | [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) |
 
